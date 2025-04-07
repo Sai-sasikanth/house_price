@@ -18,7 +18,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: #e6f0ff;  /* Light blue background */
+        background-color: #3385ff;  /* Light blue background */
     }
     .main {
         padding: 2rem;
